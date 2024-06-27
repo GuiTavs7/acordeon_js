@@ -1,0 +1,23 @@
+/* MOBILE VERSION */
+
+@media(min-width: 200px) and  (max-width: 1024px){
+
+    .acordeon{
+        width: 320px;
+        height: 80%;
+        flex-direction: column;
+    }
+
+    .acordeon .ilustration{
+        width: 200px;
+        left: 60px;
+        top: 20px;
+    }
+
+    .acordeon .conteudo{
+        width: 500px;
+        margin-top: 250px;
+        margin-right: 220px;
+    }
+
+}
